@@ -1,0 +1,6 @@
+@TinderApplication_HostAddress = http://localhost:5037
+
+GET {{TinderApplication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
